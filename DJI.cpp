@@ -1,10 +1,9 @@
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 
 using namespace std;
 
-int main(int argc, _TCHAR* argv[])
+int main()
 {
 	string str;
 	cin>>str;
